@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Hogwarts
 {
-    internal class Professor
+    internal class Professor : AuthorizedPerson
     {
+        private bool _simultaneousTeach;
+
     }
 }

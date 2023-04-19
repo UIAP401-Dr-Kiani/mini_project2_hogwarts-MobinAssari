@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Hogwarts
 {
-    internal class Dumbledore
+    internal class Dumbledore : AuthorizedPerson
     {
+        private List<Group> _groupList= new List<Group>();
     }
 }
