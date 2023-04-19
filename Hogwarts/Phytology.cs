@@ -11,5 +11,6 @@ namespace Hogwarts
         private List<string> _plantsList1 = new List<string>();
         private List<string> _plantsList2 = new List<string>();
         private List<string> _plantsList3 = new List<string>();
+        private List<string> _plantsList4 = new List<string>();
     }
 }
