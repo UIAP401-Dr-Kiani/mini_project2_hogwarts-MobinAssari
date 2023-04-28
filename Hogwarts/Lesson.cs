@@ -12,7 +12,7 @@ namespace Hogwarts
         private TimeOnly _time;
         private int _studentsCount;
         private int _capacity;
-        private int _termPresentation
+        private int _termPresentation;
 
     }
 }
